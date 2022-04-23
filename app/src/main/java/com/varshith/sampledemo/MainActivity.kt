@@ -7,6 +7,7 @@ import android.widget.Button
 import com.google.ar.sceneform.ux.ArFragment
 
 class MainActivity : AppCompatActivity() {
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
@@ -19,6 +20,7 @@ class MainActivity : AppCompatActivity() {
 
             startActivity(intent)
         }
+
     }
 }
 //https://drive.google.com/uc?export=download&id=15oISqz_WDp6bteffyG4wa48q-R10-yRM

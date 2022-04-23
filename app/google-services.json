@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1062871749028",
+    "project_id": "touch-reno",
+    "storage_bucket": "touch-reno.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062871749028:android:0d5afb7ea3c8dd2dd87131",
+        "android_client_info": {
+          "package_name": "com.varshith.sampledemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062871749028-trombtmk16gcc5ngena9qogrhbi2rvd5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.varshith.sampledemo",
+            "certificate_hash": "4853fe83e9a4e8ca4cd0e23638ca13a4a29ec7f4"
+          }
+        },
+        {
+          "client_id": "1062871749028-4c8v7f7r7hhdml8hd7oduec77nmjb9j1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUEHQ3wpfoU0hLfQM0lfJh_qbVVnplDmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062871749028-4c8v7f7r7hhdml8hd7oduec77nmjb9j1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
